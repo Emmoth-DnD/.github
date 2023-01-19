@@ -9,6 +9,8 @@ add to [FoundryVTT](https://github.com/foundryvtt), and so we create a custom mo
 If you find any use of our modules for your own campaigns, feel free to clone and install them yourselves, same goes for
 the framework :)
 
+We're still very early in development, so at the moment all repos are private. They'll be made public by the time they're a bit more fleshed out.
+
 ---
 
 With time, a list of modules will be added to this README as well as some basic information
